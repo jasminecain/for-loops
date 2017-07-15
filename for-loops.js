@@ -53,5 +53,6 @@ let antSpecies = {
 }
 
 for (let prop in antSpecies) {
-  console.log();
+  console.log(prop);
+}
 
